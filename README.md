@@ -3,6 +3,8 @@
 
 >Search engine simulator made using Java Swing GUI, implementing Heapsort and Priority Queue data structure. The purpose of this project is to demonstrate how pages are sorted by their page ranks, and how the priority queue data structure works.
 
+>To launch the application, double click the Search_Engine_Simulator.jar executable file. JDK 11 was used during the development of this application.
+
 ## Heapsorted Search Results
 
 >You can search links by keyword, and the list of links is heapsorted by the page ranks, which is assigned randomly for this project. After that, you can make a Max Heap Priority Queue of specified size which should be shorter than the page list.
